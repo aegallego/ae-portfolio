@@ -43,6 +43,17 @@ const projects = [
     tech_used: ["PHP", "HTML", "CSS", "Forecasting"],
   },
 
+  {
+    id: 4,
+    name: "Pictionary",
+    desc: "An educational mobile application for grade school students. ",
+    date: "2023",
+    thumbnail: "/pict.png",
+    website_link: "",
+    video_demo_link: "/bmoJvLEiU1A",
+    thumbnail2: "/pict2.png",
+    tech_used: [],
+  }
 ];
 
 export default projects;
