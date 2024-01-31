@@ -110,6 +110,7 @@ export default function Homepage() {
             </li>
           </ul>
         </header>
+        
         <main className="  flex-[1] flex flex-col pt-1 lg:w-1/2 lg:py-24 xs:py-12  md:py-5 min-h-screen text-opacity-80">
           <p id="about">
           Passionate IT enthusiast aspiring to be a designer. 
